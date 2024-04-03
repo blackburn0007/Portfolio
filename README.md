@@ -1,4 +1,12 @@
-# Siyavush Nazhmudinov - QA Engineer
+# Hi, my name is Siyavush!
+
+- [About Me](#about-me)
+- [Professional Skills](#professional-skills)
+- [Technical Toolbox](#technical-toolbox)
+- [Projects](#projects)
+- [Test Case Management](#test-case-management)
+- [Certifications](#certifications)
+- [Get in Touch](#get-in-touch)
 
 ## 🚀 About Me
 I am an experienced Quality Assurance Engineer with over 2 years of experience in ensuring software quality. My detail-oriented approach and strong analytical skills enable me to troubleshoot issues effectively and maintain high standards of quality.
@@ -13,7 +21,7 @@ I am an experienced Quality Assurance Engineer with over 2 years of experience i
 ## 🛠️ Technical Toolbox
 
 ### Languages
-![Python](https://icons8.com/icons/set/python) ![JavaScript](https://icons8.com/icons/set/javascript) ![SQL](https://www.flaticon.com/free-icons/sql)
+<a href='https://www.python.org/'><img src='https://www.python.org/static/community_logos/python-logo.png' alt='Python' width='100px'></a> <a href='https://www.javascript.com/'><img src='https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png' alt='Javascript' width='100px' height='40px'></a> <a href='https://www.postgresql.org/'><img src='https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png' width='100px' height='60px'></a>
 
 ### Frameworks
 ![PyTest](https://iconduck.com/icons/20899/pytest)
@@ -48,7 +56,6 @@ I am an experienced Quality Assurance Engineer with over 2 years of experience i
 - **Tools Used**: Developed test cases using Qase, performed database testing with DataGrip, executed API testing through Postman, and managed defect tracking with Linear and Qase.
 
 ## 📋 Test Case Management
-
 
 My approach to test case design, execution, and maintenance is rooted in a systematic and thorough methodology that ensures the delivery of high-quality software products. Here's an insight into my process:
 
