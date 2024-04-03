@@ -8,17 +8,17 @@
 - [Certifications](#certifications)
 - [Get in Touch](#get-in-touch)
 
-## 🚀 About Me
+## About Me
 I am an experienced Quality Assurance Engineer with over 2 years of experience in ensuring software quality. My detail-oriented approach and strong analytical skills enable me to troubleshoot issues effectively and maintain high standards of quality.
 
-## 💼 Professional Skills
+## Professional Skills
 - **Quality Assurance**: Strong knowledge of QA methodologies and tools, with a proven ability to identify and resolve defects early in the development cycle.
 - **Analytical Skills**: Detail-oriented with strong analytical and troubleshooting skills, ensuring the delivery of high-quality products.
 - **Organizational Skills**: Excellent organizational and time-management skills, capable of managing multiple projects efficiently.
 - **Testing Expertise**: Expert in manual testing, as well as bug tracking and reporting.
 - **SDLC & Agile**: Experience in Software Development Life Cycles (SDLC) and Agile methodologies, contributing to the successful delivery of projects.
 
-## 🛠️ Technical Toolbox
+## Technical Toolbox
 
 ### Languages
 <a href='https://www.python.org/'><img src='https://www.python.org/static/community_logos/python-logo.png' alt='Python' width='100px'></a> <a href='https://www.javascript.com/'><img src='https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png' alt='Javascript' width='100px' height='40px'></a> <a href='https://www.postgresql.org/'><img src='https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png' width='100px' height='60px'></a>
@@ -33,7 +33,7 @@ I am an experienced Quality Assurance Engineer with over 2 years of experience i
 ![Postman](https://icons8.com/icons/set/postman) ![Swagger](https://www.flaticon.com/free-icons/swagger) ![PyCharm](https://icons8.com/icons/set/pycharm) !GitHub
 
 
-## 📁 Projects
+## Projects
 
 ### PRM (Partner Relationship Management System)
 
@@ -55,11 +55,11 @@ I am an experienced Quality Assurance Engineer with over 2 years of experience i
 
 - **Tools Used**: Developed test cases using Qase, performed database testing with DataGrip, executed API testing through Postman, and managed defect tracking with Linear and Qase.
 
-## 📋 Test Case Management
+## Test Case Management
 
 My approach to test case design, execution, and maintenance is rooted in a systematic and thorough methodology that ensures the delivery of high-quality software products. Here's an insight into my process:
 
-### 🎨 Test Case Design
+### Test Case Design
 - **Understanding Requirements**: I start by immersing myself in the software requirements, user stories, and acceptance criteria to ensure a solid foundation for test creation.
 - **Defining Scope**: I meticulously define the scope of testing for each feature to guarantee comprehensive coverage.
 - **Prioritizing Test Cases**: Business impact, criticality, and user behavior guide my prioritization of test cases, ensuring the most important aspects are tested first.
@@ -84,11 +84,11 @@ My approach to test case design, execution, and maintenance is rooted in a syste
 
 This structured approach has been instrumental in my success as a QA Engineer, ensuring that I deliver reliable and robust software products.
 
-## 🏆 Certifications
+## Certifications
 
 [Selenium Webdriver with PYTHON from Scratch + Frameworks](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/)
 
-## 📬 Get in Touch
+## Get in Touch
 
 <a href="mailto:snajmudinov@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="30"/></a>  <a href="https://www.linkedin.com/in/siyavushnazhmudinov/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/></a>
 
