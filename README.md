@@ -1,8 +1,7 @@
-<style>
-    .icon {
-        margin-right: 10px; /* Adjust this value to set the desired spacing between icons */
-    }
-</style>
+<head><link rel="stylesheet" type="text/css" href="styles.css">
+<title>Portfolio</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
 
 # Hi, my name is Siyavush!
 
