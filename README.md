@@ -1,3 +1,9 @@
+<style>
+    .icon {
+        margin-right: 10px; /* Adjust this value to set the desired spacing between icons */
+    }
+</style>
+
 # Hi, my name is Siyavush!
 
 - [About Me](#about-me)
@@ -20,17 +26,28 @@ I am an experienced Quality Assurance Engineer with over 2 years of experience i
 
 ## Technical Toolbox
 
-### Languages
-<a href='https://www.python.org/'><img src='https://www.python.org/static/community_logos/python-logo.png' alt='Python' width='100px'></a> <a href='https://www.javascript.com/'><img src='https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png' alt='Javascript' width='100px' height='40px'></a> <a href='https://www.postgresql.org/'><img src='https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png' width='100px' height='60px'></a>
-
-### Frameworks
-![PyTest](https://iconduck.com/icons/20899/pytest)
-
-### Databases
-![PostgreSQL](https://icons8.com/icons/set/postgresql) ![Bash](https://icons8.com/icons/set/bash) ![DataGrip](https://www.jetbrains.com/help/datagrip/symbols.html)
+### Languages + Frameworks + Databases
+<a href='https://www.python.org'><img class='icon' src="icons/python.svg" alt="Python" width="50" height="50" title="Python"></a>
+<a href='https://ecma-international.org/publications-and-standards/standards/ecma-262'><img class='icon' src="icons/js.svg" alt="Javascript" width="50" height="50" title="Javascript"></a>
+<a href='https://www.gnu.org/software/bash'><img class='icon' src="icons/bash.svg" alt="gnu-bash" width="50" height="50" title="Bash"></a>
+<a href='https://pytest.org'><img class='icon' src="icons/pytest.svg.png" alt="pytest" width="50" height="50" title="Pytest"></a>
+<a href='https://www.postgresql.org'><img class='icon' src="icons/postgresql.svg" alt="postgresql" width="50" height="50" title="PostGreSQL"></a>
 
 ### Tools
-![Postman](https://icons8.com/icons/set/postman) ![Swagger](https://www.flaticon.com/free-icons/swagger) ![PyCharm](https://icons8.com/icons/set/pycharm) !GitHub
+<a href='https://www.jetbrains.com/datagrip'><img class='icon' src="icons/datagrip.svg" alt="datagrip" width="50" height="50" title="Datagrip"></a>
+<a href='https://www.jetbrains.com/pycharm'><img class='icon' src="icons/pycharm.svg" alt="pycharm" width="50" height="50" title="Pycharm"></a>
+<a href='https://code.visualstudio.com/'><img class='icon' src="icons/vscode.svg" alt="vscode" width="50" height="50" title="Visual Studio Code"></a>
+<a href='https://www.postman.com'><img class='icon' src="icons/postman.svg" alt="postman" width="50" height="50" title="Postman"></a>
+<a href='https://swagger.io'><img class='icon' src="icons/swagger.svg" alt="swagger" width="50" height="50" title="Swagger"></a>
+<a href='https://github.com'><img class='icon' src="icons/github.svg" alt="github" width="50" height="50" title="GitHub"></a>
+<a href='https://developer.chrome.com/docs/devtools'><img class='icon' src="icons/chrome-dev.svg" alt="chrome dev tools" width="50" height="50" title="Chrome DevTools"></a>
+
+
+### TMS + PMS
+<a href='https://qase.io/'><img class='icon' src="icons/qase.svg" alt="qase" width="50" height="50" title="Qase Test Management"></a>
+<a href='https://linear.app/'><img class='icon' src="icons/linear.svg" alt="linear" width="50" height="50" title="Linear Project Management"></a>
+<a href='https://trello.com'><img class='icon' src="icons/trello.svg" alt="trello" width="50" height="50" title="Trello"></a>
+<a href='https://www.bitrix24.ru/'><img class='icon' src="icons/bitrix24.svg" alt="bitrix24" width="50" height="50" title="Bitrix24"></a>
 
 
 ## Projects
