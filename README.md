@@ -29,6 +29,7 @@ I am an experienced Quality Assurance Engineer with over 2 years of experience i
 ### Languages + Frameworks + Databases
 <a href='https://www.python.org'><img class='icon' src="icons/python.svg" alt="Python" width="50" height="50" title="Python"></a>
 <a href='https://ecma-international.org/publications-and-standards/standards/ecma-262'><img class='icon' src="icons/js.svg" alt="Javascript" width="50" height="50" title="Javascript"></a>
+<a href='https://www.selenium.dev/'><img class='icon' src="icons/selenium.svg" alt="selenium" width="50" height="50" title="Selenium"></a>
 <a href='https://www.gnu.org/software/bash'><img class='icon' src="icons/bash.svg" alt="gnu-bash" width="50" height="50" title="Bash"></a>
 <a href='https://pytest.org'><img class='icon' src="icons/pytest.svg.png" alt="pytest" width="50" height="50" title="Pytest"></a>
 <a href='https://www.postgresql.org'><img class='icon' src="icons/postgresql.svg" alt="postgresql" width="50" height="50" title="PostGreSQL"></a>
