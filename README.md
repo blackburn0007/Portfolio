@@ -13,7 +13,7 @@
 - [Certifications](#certifications)
 - [Get in Touch](#get-in-touch)
 
-## About Me
+## About Me 👨‍💻
 I am an experienced Quality Assurance Engineer with over 2 years of experience in ensuring software quality. My detail-oriented approach and strong analytical skills enable me to troubleshoot issues effectively and maintain high standards of quality.
 
 ## Professional Skills
@@ -107,6 +107,7 @@ This structured approach has been instrumental in my success as a QA Engineer, e
 
 ## Get in Touch
 
-<a href="mailto:snajmudinov@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="30"/></a>  <a href="https://www.linkedin.com/in/siyavushnazhmudinov/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/></a>
+<a href="mailto:snajmudinov@gmail.com"><img class="icon" src="icons/gmail.svg" alt="email" width="50" height="50"/></a><a href="https://www.linkedin.com/in/siyavushnazhmudinov/"><img class="icon" src="icons/linkedin.svg" class="icon" alt="LinkedIn" width="50" height="50"/></a>
+<a href="https://t.me/najmudinovs"><img class="icon" src="icons/telegram.svg" alt="telegram" width="50" height="50"/></a>
 
 
